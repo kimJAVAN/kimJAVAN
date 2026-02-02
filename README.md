@@ -139,4 +139,4 @@ Next.js 기반 온라인 서점 플랫폼입니다.
 
 지속적으로 성장하는 개발자가 되겠습니다.
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_ID)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=kimJAVAN)
