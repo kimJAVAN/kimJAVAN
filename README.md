@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=fde2e4,faf3dd,cdb4db&height=220&section=header&text=Frontend%20Developer%20Geunyeong&fontSize=35&fontColor=6d6875)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=ffe5ec,ffc2d1,ffb3c6&height=210&section=header&text=Welcome%20to%20My%20GitHub%20🌷&fontSize=34&fontColor=5e548e)
 
 # 👋 안녕하세요, 프론트엔드 개발자 김근영입니다.
 
