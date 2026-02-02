@@ -118,24 +118,6 @@ Next.js 기반 온라인 서점 플랫폼입니다.
 
 ---
 
-## 🐍 Contribution Graph
-
-![snake gif](https://github.com/kimJAVAN/kimJAVAN/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kimJAVAN&theme=rose-pine)
-
----
-
-## 🏆 GitHub Trophy
-
-![trophy](https://github-profile-trophy.vercel.app/?username=kimJAVAN&theme=flat&row=1)
-
----
-
 # 📚 Blog & Contact
 
 ### 📝 Blog
