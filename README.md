@@ -84,7 +84,7 @@ UI/UX 이해를 기반으로 **빠른 프로토타입 제작과 성능 최적화
 
 ---
 
-## 📚 TripleCore Bookstore Platform
+## 📚 Bookstore Platform
 👉 https://readme-kt-2025.vercel.app/
 
 Next.js 기반 온라인 서점 플랫폼입니다.
@@ -115,6 +115,24 @@ Next.js 기반 온라인 서점 플랫폼입니다.
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kimJAVAN&show_icons=true&theme=rose_pine" height="160"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kimJAVAN&layout=compact&theme=rose_pine" height="160"/>
 </p>
+
+---
+
+## 🐍 Contribution Graph
+
+![snake gif](https://github.com/kimJAVAN/kimJAVAN/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📈 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kimJAVAN&theme=rose-pine)
+
+---
+
+## 🏆 GitHub Trophy
+
+![trophy](https://github-profile-trophy.vercel.app/?username=kimJAVAN&theme=flat&row=1)
 
 ---
 
