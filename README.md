@@ -111,9 +111,9 @@ Next.js 기반 온라인 서점 플랫폼입니다.
 
 # 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kimJAVAN&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kimJAVAN&show_icons=true&theme=rose_pine)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimJAVAN&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimJAVAN&layout=compact&theme=rose_pine)
 
 ---
 
