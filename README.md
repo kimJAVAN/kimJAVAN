@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,5,6&height=230&section=header&text=✨%20Geunyeong%20Kim%20✨&fontSize=38&fontColor=ffffff&animation=twinkling)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff9aa2&lines=Frontend+Developer;UI%2FUX+Focused;Always+Learning)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_ID)
 
 # 👋 안녕하세요, 프론트엔드 개발자 김근영입니다.
 
@@ -138,3 +137,5 @@ Next.js 기반 온라인 서점 플랫폼입니다.
 를 중요하게 생각합니다.
 
 지속적으로 성장하는 개발자가 되겠습니다.
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_ID)
