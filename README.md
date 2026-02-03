@@ -118,6 +118,11 @@ Next.js 기반 온라인 서점 플랫폼입니다.
 
 ---
 
+👨‍🎓 Education
+2025.09 ~ : (In progress) kt cloud TECH UP bootcamp 1st session
+
+---
+
 # 📚 Blog & Contact
 
 ### 📝 Blog
